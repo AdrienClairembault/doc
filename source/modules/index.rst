@@ -11,3 +11,4 @@ Modules
    outils/index
    administration/index
    configuration/index
+   impact/index
